@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Servers>
+    <ServerGroup Name="MaxFoxGaming" Logo="" Description="">
+        <Server Name="FennecMod" Logo="">
+            <Description>A mod introducing specialisations and some nifty stuff.</Description>
+            <Version>1.0 (Stable)</Version>
+            <ReleaseNotes>https://github.com/mdf25/FennecMod</ReleaseNotes>
+            <Downloads>
+                <Download>https://github.com/mdf25/FennecMod/archive/v1.0-stable.zip</Download>
+            </Downloads>
+        </Server>
+        <Server Name="FennecMod DevBranch" Logo="" Description="">
+            <Description>A mod introducing specialisations and some nifty stuff.</Description>
+            <Version>DevBranch</Version>
+            <ReleaseNotes>https://github.com/mdf25/FennecMod</ReleaseNotes>
+            <Downloads>
+                <Download>https://github.com/mdf25/FennecMod/archive/master.zip</Download>
+            </Downloads>
+        </Server>
+    </ServerGroup>
+</Servers>
