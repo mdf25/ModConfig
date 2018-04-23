@@ -17,5 +17,13 @@
                 <Download>https://github.com/mdf25/FennecMod/archive/master.zip</Download>
             </Downloads>
         </Server>
+		<Server Name="Death By Darkness" Logo="" Description="">
+            <Description>A mod centered around deathmatch PvP play! Also to celebrate 5000 subscribers!</Description>
+            <Version>1.0</Version>
+            <ReleaseNotes>https://github.com/mdf25/DeathByDarkness</ReleaseNotes>
+            <Downloads>
+                <Download>https://github.com/mdf25/DeathByDarkness/archive/master.zip</Download>
+            </Downloads>
+        </Server>
     </ServerGroup>
 </Servers>
