@@ -25,5 +25,22 @@
                 <Download>https://github.com/mdf25/FennecMod/archive/master.zip</Download>
             </Downloads>
         </Server>
+		<Server Name="Death By Darkness" Logo="" Description="">
+            <Description>A mod centered around deathmatch PvP play - though you can play SP and PvE! Also to celebrate 5000 subscribers!
+
+Recommended Settings for PvP:
+- Day Length: 40 mins (Easy) or 30 mins (Challenging)
+- Day Night Cycle: 18 Hours
+- Air Drops: Daily
+- Loot Respawn: Every 3 Days
+- Difficulty: Warrior (Easy) or Survivalist (Challenging)
+- Drop on Death: Backpack Only
+			</Description>
+            <Version>1.0</Version>
+            <ReleaseNotes>https://github.com/mdf25/DeathByDarkness</ReleaseNotes>
+            <Downloads>
+                <Download>https://github.com/mdf25/DeathByDarkness/archive/master.zip</Download>
+            </Downloads>
+        </Server>
     </ServerGroup>
 </Servers>
