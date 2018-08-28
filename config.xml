@@ -10,7 +10,7 @@
             </Downloads>
         </Server>
 		
-		<Server Name="FennecMod 1.1 (Stable, CompoPack)" Logo="" Description="">
+		<Server Name="FennecMod 1.1 (Stable + CompoPack)" Logo="" Description="">
             <Description>A mod introducing specialisations and some nifty stuff. Includes some POIs from Compopack too!</Description>
             <Version>1.1 (Stable, CompoPack)</Version>
             <ReleaseNotes>https://github.com/mdf25/FennecMod</ReleaseNotes>
