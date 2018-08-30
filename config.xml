@@ -20,6 +20,27 @@
             </Downloads>
         </Server>
 		
+		<Server Name="FennecMod 1.1 (Death Mode)" Logo="" Description="">
+            <Description>A mod introducing specialisations and some nifty stuff with deadly night times! They will find you... Wherever you may hide.</Description>
+            <Version>1.1 (Stable, CompoPack)</Version>
+            <ReleaseNotes>https://github.com/mdf25/FennecMod</ReleaseNotes>
+            <Downloads>
+                <Download>https://github.com/mdf25/FennecMod/archive/v1.1-stable.zip</Download>
+				<Download>https://github.com/mdf25/FennecMod/archive/v1.1-with-death-mode.zip</Download>
+            </Downloads>
+        </Server>
+		
+		<Server Name="FennecMod 1.1 (Death Mode + CompoPack)" Logo="" Description="">
+            <Description>A mod introducing specialisations and some nifty stuff with deadly night times! They will find you... Wherever you may hide. Includes some POIs from Compopack too!</Description>
+            <Version>1.1 (Stable, CompoPack)</Version>
+            <ReleaseNotes>https://github.com/mdf25/FennecMod</ReleaseNotes>
+            <Downloads>
+                <Download>https://github.com/mdf25/FennecMod/archive/v1.1-stable.zip</Download>
+				<Download>https://github.com/mdf25/FennecMod/archive/v1.1-with-compopack.zip</Download>
+				<Download>https://github.com/mdf25/FennecMod/archive/v1.1-with-death-mode.zip</Download>
+            </Downloads>
+        </Server>
+		
         <Server Name="FennecMod 1.0 (Stable)" Logo="">
             <Description>A mod introducing specialisations and some nifty stuff.</Description>
             <Version>1.0 (Stable)</Version>
