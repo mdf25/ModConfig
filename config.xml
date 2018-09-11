@@ -68,4 +68,16 @@ Recommended Settings for PvP:
             </Downloads>
         </Server>
     </ServerGroup>
+	
+	<ServerGroup Name="FadeWillow" Logo="" Description="">
+        <Server Name="The Black Chalice" Logo="" Description="">
+            <Description>Adds in the items needed for Fade's Halloween Event.
+NOTE: This is not a full mod and so will not deliver a different experence from Vanilla, so no need to download if you're not playing on the Halloween map.</Description>
+            <Version>1.0 (Final)</Version>
+            <ReleaseNotes>https://github.com/mdf25/BlackChaliceMod</ReleaseNotes>
+            <Downloads>
+                <Download>https://github.com/mdf25/BlackChaliceMod/archive/master.zip</Download>
+            </Downloads>
+        </Server>
+    </ServerGroup>
 </Servers>
