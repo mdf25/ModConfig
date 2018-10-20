@@ -41,6 +41,19 @@
             </Downloads>
         </Server>
 		
+		<Server Name="FennecMod 1.1 (Arena Mode WIP)" Logo="" Description="">
+            <Description>WIP: Do not download, you'll only be disappointed at the moment. :D</Description>
+            <Version>1.1 (Stable)</Version>
+            <ReleaseNotes>https://github.com/mdf25/FennecMod</ReleaseNotes>
+            <Downloads>
+                <Download>https://github.com/mdf25/FennecMod/archive/v1.1-stable.zip</Download>
+				<Download>https://github.com/mdf25/FennecMod/archive/v1.1-with-arena-mode.zip</Download>
+			</Downloads>
+        </Server>
+		
+		
+		
+		
         <Server Name="FennecMod 1.0 (Stable)" Logo="">
             <Description>A mod introducing specialisations and some nifty stuff.</Description>
             <Version>1.0 (Stable)</Version>
