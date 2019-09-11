@@ -1,97 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Servers>
     <ServerGroup Name="MaxFoxGaming" Logo="" Description="">
-        <Server Name="FennecMod 1.1 (Stable)" Logo="" Description="">
-            <Description>A mod introducing specialisations and some nifty stuff.</Description>
-            <Version>1.1 (Stable)</Version>
-            <ReleaseNotes>https://github.com/mdf25/FennecMod</ReleaseNotes>
+        <Server Name="Dead Rising A17" Logo="">
+		    <Description>A collection of modlets based around Just Survive, Somehow. Harder and tougher zombies, more weapons, and more stuff for your base like traps and wireless power systems!
+            </Description>
+            <DownloadMode>Clone</DownloadMode>
+            <Version>Latest</Version>
+            <ReleaseNotes/>
             <Downloads>
-                <Download>https://github.com/mdf25/FennecMod/archive/v1.1-stable.zip</Download>
-            </Downloads>
-        </Server>
-		
-		<Server Name="FennecMod 1.1 (Stable + CompoPack)" Logo="" Description="">
-            <Description>A mod introducing specialisations and some nifty stuff. Includes some POIs from Compopack too!</Description>
-            <Version>1.1 (Stable, CompoPack)</Version>
-            <ReleaseNotes>https://github.com/mdf25/FennecMod</ReleaseNotes>
+                <Download>https://gitlab.com/Sphereii-mentals/winterproject-2018</Download>
             <Downloads>
-                <Download>https://github.com/mdf25/FennecMod/archive/v1.1-stable.zip</Download>
-				<Download>https://github.com/mdf25/FennecMod/archive/v1.1-with-compopack.zip</Download>
-            </Downloads>
-        </Server>
-		
-		<Server Name="FennecMod 1.1 (Death Mode)" Logo="" Description="">
-            <Description>A mod introducing specialisations and some nifty stuff with deadly night times! They will find you... Wherever you may hide.</Description>
-            <Version>1.1 (Stable, CompoPack)</Version>
-            <ReleaseNotes>https://github.com/mdf25/FennecMod</ReleaseNotes>
-            <Downloads>
-                <Download>https://github.com/mdf25/FennecMod/archive/v1.1-stable.zip</Download>
-				<Download>https://github.com/mdf25/FennecMod/archive/v1.1-with-death-mode.zip</Download>
-            </Downloads>
-        </Server>
-		
-		<Server Name="FennecMod 1.1 (Death Mode + CompoPack)" Logo="" Description="">
-            <Description>A mod introducing specialisations and some nifty stuff with deadly night times! They will find you... Wherever you may hide. Includes some POIs from Compopack too!</Description>
-            <Version>1.1 (Stable, CompoPack)</Version>
-            <ReleaseNotes>https://github.com/mdf25/FennecMod</ReleaseNotes>
-            <Downloads>
-                <Download>https://github.com/mdf25/FennecMod/archive/v1.1-stable.zip</Download>
-				<Download>https://github.com/mdf25/FennecMod/archive/v1.1-with-compopack.zip</Download>
-				<Download>https://github.com/mdf25/FennecMod/archive/v1.1-with-death-mode.zip</Download>
-            </Downloads>
-        </Server>
-		
-		<!--
-		<Server Name="FennecMod 1.1 (Arena Mode)" Logo="" Description="">
-            <Description>WIP: Do not download, you'll only be disappointed at the moment. :D</Description>
-            <Version>1.1 (Stable)</Version>
-            <ReleaseNotes>https://github.com/mdf25/FennecMod</ReleaseNotes>
-            <Downloads>
-                <Download>https://github.com/mdf25/FennecMod/archive/v1.1-stable.zip</Download>
-				<Download>https://github.com/mdf25/FennecMod/archive/v1.1-with-arena-mode.zip</Download>
-			</Downloads>
-        </Server>
-		-->
-		
-		
-		
-        <Server Name="FennecMod 1.0 (Stable)" Logo="">
-            <Description>A mod introducing specialisations and some nifty stuff.</Description>
-            <Version>1.0 (Stable)</Version>
-            <ReleaseNotes>https://github.com/mdf25/FennecMod</ReleaseNotes>
-            <Downloads>
-                <Download>https://github.com/mdf25/FennecMod/archive/v1.0-stable.zip</Download>
-            </Downloads>
-        </Server>
-        
-		<Server Name="Death By Darkness" Logo="" Description="">
-            <Description>A mod centered around deathmatch PvP play - though you can play SP and PvE! Also to celebrate 5000 subscribers!
-
-Recommended Settings for PvP:
-- Day Length: 40 mins (Easy) or 30 mins (Challenging)
-- Day Night Cycle: 18 Hours
-- Air Drops: Daily
-- Loot Respawn: Every 3 Days
-- Difficulty: Warrior (Easy) or Survivalist (Challenging)
-- Drop on Death: Backpack Only
-			</Description>
-            <Version>1.0</Version>
-            <ReleaseNotes>https://github.com/mdf25/DeathByDarkness</ReleaseNotes>
-            <Downloads>
-                <Download>https://github.com/mdf25/DeathByDarkness/archive/master.zip</Download>
-            </Downloads>
-        </Server>
-    </ServerGroup>
-	
-	<ServerGroup Name="FadeWillow" Logo="" Description="">
-        <Server Name="The Black Chalice" Logo="" Description="">
-            <Description>Adds in the items needed for Fade's Halloween Event.
-NOTE: This is not a full mod and so will not deliver a different experence from Vanilla, so no need to download if you're not playing on the Halloween map.</Description>
-            <Version>1.0 (Final)</Version>
-            <ReleaseNotes>https://github.com/mdf25/BlackChaliceMod</ReleaseNotes>
-            <Downloads>
-                <Download>https://github.com/mdf25/BlackChaliceMod/archive/master.zip</Download>
-            </Downloads>
         </Server>
     </ServerGroup>
 </Servers>
