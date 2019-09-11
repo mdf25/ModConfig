@@ -4,11 +4,11 @@
         <Server Name="Dead Rising A17" Logo="">
 		    <Description>A collection of modlets based around Just Survive, Somehow. Harder and tougher zombies, more weapons, and more stuff for your base like traps and wireless power systems!
             </Description>
-            <DownloadMode>Clone</DownloadMode>
+            <DownloadMode>Download</DownloadMode>
             <Version>Latest</Version>
             <ReleaseNotes/>
             <Downloads>
-                <Download>https://gitlab.com/Sphereii-mentals/winterproject-2018</Download>
+                <Download>https://github.com/mdf25/dead-rising/archive/master.zip</Download>
             <Downloads>
         </Server>
     </ServerGroup>
